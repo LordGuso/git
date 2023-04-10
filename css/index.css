@@ -1,0 +1,36 @@
+h1{
+    color:blue;
+    font-size: 60px;
+    background-color:yellowgreen;
+    border-top: solid 5px black;
+    border-bottom: solid 10px darkgreen;
+    border-left: dashed 3px green;
+    border-right: double 15px lawngreen;
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align: center
+    ;
+}
+
+h2{
+    color: lightyellow;
+    font-size: 150%;
+    background-color: lightblue;
+    margin-right: 70%;
+}
+
+p{
+    color: darkgreen;
+    font-size: 150%;
+    background-color: lightgreen;
+    margin-right: 70%;
+}
+
+
+#Id3{color: white;}
+
+.clase1{text-align: center;}
+.clase2{text-emphasis-style: triangle;}
+.clase3{color: black;}
+.claseN{font-size: small;}
+#miId{font-style: italic;}
